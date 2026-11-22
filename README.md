@@ -256,4 +256,5 @@ source database/sample_data.sql;
 9. **Predictive Delay-Risk Simulator (`/delay-risk`)**: Adjust sliders for supplier reliability and route distance to see real-time probability shifts.
 10. **Gemini AI Assistant (`/ai-assistant`)**: Ask questions such as *"Which products are running low on stock?"* or *"What should I reorder this week?"* and review the verified data citations.
 #   s t o c k _ a i - p r o j e c t  
+ #   S t o c k - A I - p r o j e c t  
  
